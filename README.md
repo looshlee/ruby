@@ -6,7 +6,7 @@
 [![Actions Status](https://github.com/ruby/ruby/workflows/Ubuntu/badge.svg)](https://github.com/ruby/ruby/actions?query=workflow%3A"Ubuntu")
 [![Actions Status](https://github.com/ruby/ruby/workflows/Windows/badge.svg)](https://github.com/ruby/ruby/actions?query=workflow%3A"Windows")
 
-# What's Ruby 
+# What's Ruby Tuesday
 # Changes
 
 Ruby is an interpreted object-oriented programming language often
